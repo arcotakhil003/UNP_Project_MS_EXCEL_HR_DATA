@@ -9,5 +9,9 @@ KEY HIGHLIGHTS
 3) Designed a user-friendly dashboard interface accessible to users across diferent levels of expertise within the organisation.
 4) Visualized Key Performance Indicators ( KPIs) in a format that provides a quick overview of attrition trends , reasons, and effectiveness of retention strategies.Facilities data-driven decision-making and highlights areas for improvement.
 5) Applied relevant Excel functions and formulas to optimise and structure the data for effective visualization.
-PDF - https://drive.google.com/file/d/19NVCbnOYCusZPnmvywn1VK9SFIsvoRWD/view?usp=sharing
-EXCEL - https://docs.google.com/spreadsheets/d/19TdOEI48_JkSaR67V0wEbrFYVBwqxhBn/edit?usp=sharing&ouid=118185580632402481165&rtpof=true&sd=true
+   
+PDF LINK
+https://drive.google.com/file/d/19NVCbnOYCusZPnmvywn1VK9SFIsvoRWD/view?usp=sharing
+
+EXCEL LINK
+https://docs.google.com/spreadsheets/d/19TdOEI48_JkSaR67V0wEbrFYVBwqxhBn/edit?usp=sharing&ouid=118185580632402481165&rtpof=true&sd=true
